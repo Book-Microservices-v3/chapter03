@@ -12,7 +12,11 @@ In Chapter 3, the goal is to build a Spring Boot application according to good p
 
 The next figure shows the status of the Multiplication application by the end of the Chapter, as it's also included in this repository.
 
+![Multiplication application - Logical View - Chapter 3](resources/app-layers-chapter3.png)
+
 There are two functional domains included in this first application: Users, and Challenges. See the figure below.
+
+![Multiplication application - Domains](resources/business_model.png)
 
 ## Running the app
 Note: You need to use JDK version 17 to run this project.

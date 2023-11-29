@@ -14,7 +14,7 @@ The next figure shows the status of the Multiplication application by the end of
 There are two functional domains included in this first application: Users, and Challenges. See the figure below.
 
 ## Running the app
-Note: You need to use at least JDK version 14 to run this project.
+Note: You need to use JDK version 17 to run this project.
 
 To start the Spring Boot application, you can use the command line with the included Maven wrapper:
 ```
@@ -32,6 +32,6 @@ You'll face all the challenges of designing and implementing a distributed syste
 
 ## Purchase
 You can buy the book online from these stores:
-* Apress
-* Amazon
+* [Apress](https://link.springer.com/book/10.1007/978-1-4842-9757-5)
+* [Amazon](https://www.amazon.com/Learn-Microservices-Spring-Boot-Containerization/dp/1484297563)
 and other online stores
